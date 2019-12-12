@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Title_textSize">20sp</dimen>
+    <dimen name="Long_textSize">14sp</dimen>
+    <dimen name="padding">24dp</dimen>
+    <dimen name="text_marginBottom">24dp</dimen>
+    <dimen name="image_marginBottom">12dp</dimen>
+    <dimen name="image_width">128dp</dimen>
+    <dimen name="image_height">0dp</dimen>
+    <dimen name="constraint_padding">24dp</dimen>
+    <dimen name="lineHeight">24dp</dimen>
+    <dimen name="paddingStart">24dp</dimen>
+    <dimen name="paddingEnd">24dp</dimen>
+</resources>
